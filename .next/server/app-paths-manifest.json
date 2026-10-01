@@ -1,0 +1,8 @@
+{
+  "/government/dashboard/page": "app/government/dashboard/page.js",
+  "/government/login/page": "app/government/login/page.js",
+  "/government/reports/[reportId]/page": "app/government/reports/[reportId]/page.js",
+  "/government/qr/page": "app/government/qr/page.js",
+  "/track/page": "app/track/page.js",
+  "/government/map/page": "app/government/map/page.js"
+}
